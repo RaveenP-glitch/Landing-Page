@@ -1,0 +1,21 @@
+body{
+
+
+}
+
+.header-name{
+    color: orange;
+    font-size: medium;
+    margin-left: 2%;
+    margin-top: 1%;
+
+}
+.navbar{
+    background-color: grey;
+    
+}
+
+.nav-item{
+    color: whitesmoke;
+
+}
